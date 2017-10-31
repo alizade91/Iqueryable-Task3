@@ -1,0 +1,9 @@
+C:\Users\Aliaksei_Ihnatsenka\source\repos\ExpressionsAndIQueryable\Task3\bin\Debug\Task3.exe.config
+C:\Users\Aliaksei_Ihnatsenka\source\repos\ExpressionsAndIQueryable\Task3\bin\Debug\Task3.exe
+C:\Users\Aliaksei_Ihnatsenka\source\repos\ExpressionsAndIQueryable\Task3\bin\Debug\Task3.pdb
+C:\Users\Aliaksei_Ihnatsenka\source\repos\ExpressionsAndIQueryable\Task3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aliaksei_Ihnatsenka\source\repos\ExpressionsAndIQueryable\Task3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aliaksei_Ihnatsenka\source\repos\ExpressionsAndIQueryable\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\Aliaksei_Ihnatsenka\source\repos\ExpressionsAndIQueryable\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksei_Ihnatsenka\source\repos\ExpressionsAndIQueryable\Task3\obj\Debug\Task3.exe
+C:\Users\Aliaksei_Ihnatsenka\source\repos\ExpressionsAndIQueryable\Task3\obj\Debug\Task3.pdb
